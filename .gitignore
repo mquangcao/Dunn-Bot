@@ -6,3 +6,4 @@ data/
 update.ignore.js
 ExtensionConfig.json
 temp/
+.babelrc
